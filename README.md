@@ -5,8 +5,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [SOLUTION URL](https://github.com/Mercysticks/QR-Code-component)
+- Live Site URL: [LIVE SITE URL](https://beamish-shortbread-28a3a6.netlify.app/)
 
 
 
